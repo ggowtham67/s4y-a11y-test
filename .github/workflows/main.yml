@@ -9,7 +9,6 @@ jobs:
         id: hello
         uses: ggowtham67/s4y-a11y@v0.0.5
         with:
-          format: space-delimited
           token: ${{ secrets.GITHUB_TOKEN }}
       # Use the output from the `hello` step
       - name: Get the output time
