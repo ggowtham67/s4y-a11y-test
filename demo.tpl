@@ -10,7 +10,7 @@
   <div class="container">
     <button>Button</button>
     <img src="demo.png"/>
-    <div>Changed</div>
+    <div>v0.0.5</div>
   </div>
 </body>
 </html>
