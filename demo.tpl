@@ -11,6 +11,7 @@
     <button>Button</button>
     <img src="demo.png"/>
     <div>v0.0.5</div>
+    <span>test</span>
   </div>
 </body>
 </html>
