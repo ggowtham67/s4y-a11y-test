@@ -4,4 +4,5 @@
 	{foreach $items as $item}
 		<li>test 2</li>
 	{/foreach}
+	<img src="demo.png"/>
 </ul>
